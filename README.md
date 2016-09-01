@@ -73,3 +73,5 @@ Output: (+ represents the filled area)
 |___|___ ___ ___|___|___ ___|±±±|±±±|±±±|±±±|±±±|±±±|___|___|___
   1   0   0   0   6   0   0   3  10   2   3   4   5   0   3   0 
 ```
+
+More features may be added in the future
