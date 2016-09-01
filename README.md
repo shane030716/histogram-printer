@@ -3,7 +3,7 @@
 HistogramPrinter prints out a histogram represented by an array of non-negative integers, 
 where each integer in the array represents the height of each bar.
 
-This class has three public APIs for far
+This class has three public APIs so far
 
 `printHistogram(int[] arr)`
 
