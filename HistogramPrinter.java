@@ -1,3 +1,9 @@
+/*
+ * Histogram Printer
+ */
+
+
+//TODO: Change to your own package
 package util.histogramprinter;
 
 import java.util.Formatter;
