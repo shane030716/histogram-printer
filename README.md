@@ -3,6 +3,8 @@
 HistogramPrinter prints out a histogram represented by an array of non-negative integers, 
 where each integer in the array represents the height of each bar.
 
+It's useful for debugging problems involving histograms. See [Largest Rectangle in a Histogram](https://github.com/shane030716/programming-problems#largest-rectangle-in-a-histogram) and [Volume of Histogram](https://github.com/shane030716/programming-problems#volume-of-histogram)
+
 This class has three public APIs so far
 
 `printHistogram(int[] arr)`
